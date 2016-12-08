@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Painter</string>
+    <string name="title_activity_single_touch_event_view">SingleTouchEventView</string>
+</resources>
